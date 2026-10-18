@@ -4,6 +4,12 @@
 
 A [Flarum](http://flarum.org) extension. Flarum Custom Levels, levels can be customized, and can trigger events.
 
+> **中文简介**：[Flarum](http://flarum.org) 经验等级扩展。等级可完全自定义（名称、图标、升级提示），
+> 并可在等级变化时触发事件，与社区任务、商店、用户目录等扩展联动。安装：
+> `composer require foskym/flarum-custom-levels:"*"`，详细用法见下方英文原文。
+> **In short (中文)**: a Flarum experience/level extension — fully customizable levels with
+> event hooks, install with `composer require foskym/flarum-custom-levels:"*"`.
+
 ## Better combinations
 - this.
 - `xypp/forum-quests`. Forum Quests, reward exp.
